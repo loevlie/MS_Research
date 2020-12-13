@@ -1,0 +1,3 @@
+[submodule "nb_search"]
+	path = nb_search
+	url = https://github.com/loevlie/nb_search
